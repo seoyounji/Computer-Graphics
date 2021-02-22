@@ -6,7 +6,7 @@ image를 sharpening 하게 만들어 보기 / noise image를 만든 뒤 sliding 
 > original image   
 <img src="/lena.png" width="200px" height="300px" title="original" alt="original image"></img><br/>
 
-> frequency domain filtering sharpening:
+frequency domain filtering sharpening:
 
   주파수 값을 이용한 필터링 방법. 이미지를 주파수 영역으로 변환한 뒤 필터링한 후 다시 주파수 영역을 이미지로 변환
   
