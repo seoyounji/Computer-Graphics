@@ -38,3 +38,14 @@ image를 sharpening 하게 만들어 보기 / noise image를 만든 뒤 sliding 
 
 #### after image
 <img src="/noise_image.jpg" width="200px" height="300px" title="noise image" alt="noise image"></img><br/>
+
+***
+
+> median filter
+
+    sliding window를 만든 뒤 3x3 median filter와 5x5 median filter를 적용함.   
+    filter의 크기가 커질수록 이미지가 더 뿌옇게 변함.   
+
+#### after image
+<img src="/median filter 3x3.jpg" width="200px" height="300px" title="median filter 3x3" alt="median filter 3x3 image"></img><br/>
+<img src="/median filter 5x5.jpg" width="200px" height="300px" title="median filter 5x5" alt="median filter 5x5 image"></img><br/>
