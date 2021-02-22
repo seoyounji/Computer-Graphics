@@ -5,7 +5,6 @@ image를 sharpening 하게 만들어 보기 / noise image를 만든 뒤 sliding 
     
     
 > original image   
-
 <img src="/lena.png" width="200px" height="300px" title="original" alt="original image"></img><br/>
     
     
